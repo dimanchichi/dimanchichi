@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimanchichi
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning Python
+- 🌱 I’m AQA engineer in tech company
 
 <!---
 dimanchichi/dimanchichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
